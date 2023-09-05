@@ -1,0 +1,61 @@
+.udemy{
+  background-color: black;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  
+  
+  
+}
+
+li,ul,h1{
+  display: inline;
+}
+ul{
+  margin-left: 50%;
+}
+*{
+  padding: 0;
+  margin: 0px;
+}
+li:hover{
+  color: red;
+  cursor: pointer;
+}
+input{
+  border-radius: 10px;
+
+  padding: 20px;
+  width: 60%;
+}
+.search{
+  text-align: center;
+  padding: 50px;
+}
+.image{
+  border: 2px solid black;
+  display: inline-block;
+  width: 220px;
+  text-align: center;
+  margin-left: 50px;
+  flex-wrap: wrap;
+}
+.image:hover{
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.h1{
+  text-align: center;
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+}
+.about{
+  text-decoration: underline;
+}
+.contact{
+  text-align: center;
+  font-family: system-ui;
+  
+}
